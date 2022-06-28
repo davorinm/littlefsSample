@@ -1,0 +1,7 @@
+{
+  "nrf-connect.topdir": "/opt/nordic/ncs/v1.9.1",
+  "nrf-connect.toolchain.path": "/opt/nordic/ncs/v1.9.1/toolchain",
+  "nrf-connect.applications": [
+    "/Users/davorinm/Desktop/NordicSample/littlefsSample"
+  ]
+}
